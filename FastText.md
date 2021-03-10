@@ -13,3 +13,16 @@ fasttext使用的是层次Softmax
 另一个不同点在于：
 
 + fasttext既可以和word2vec一样进行无监督训练，也可以利用文本的标签进行有监督训练，做简单的文本分类
+
+
+
+## 2.subword的好处
+
+subword可以处理OOV问题
+
+## 3.文本分类
+
+训练目标变成句子的标签类别
+
+## 4.为什么FastText比Word2vec快？
+
